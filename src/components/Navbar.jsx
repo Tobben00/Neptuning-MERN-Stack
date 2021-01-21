@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { CSSTransition } from 'react-transition-group';
-import * as Scroll from 'react-scroll';
 
 import { AiOutlineClose } from 'react-icons/ai'
 import { FaBars } from 'react-icons/fa'
